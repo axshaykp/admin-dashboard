@@ -66,7 +66,7 @@ function SignUp() {
             </div>
           </CardContent>
           <CardFooter className="flex justify-between">
-            <Button>Sign up</Button>
+            <Button type="submit">Sign up</Button>
           </CardFooter>
         </form>
       </Card>
